@@ -15,7 +15,7 @@ public class TwwsdCloneApplication {
 	
 	@GetMapping
 	public String Hello() {
-		return "Hello WOrld";
+		return "Hello WOrld.";
 	}
 
 }
